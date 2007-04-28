@@ -1,0 +1,24 @@
+2007-04-28  SUNAOKA Norifumi  <sunaoka@pocari.org>
+
+	* version 1.1:
+	ライセンスを修正 BSD ライセンスに変更
+	リリース
+
+	* README:
+	ライセンスに関する記述を変更
+
+	* ygmail.def:
+	B2PinSDK-23100 に合わせて修正
+
+	* BkCommon.cpp:
+	B2PinSDK-23100 に更新
+
+2004-12-15  SUNAOKA Norifumi  <sunaoka@pocari.org>
+
+	* SetupDlg.cpp: OnDelete()
+	メッセージボックスのタイトルを `エラー' から `確認' に修正．
+
+2004-12-14  SUNAOKA Norifumi  <sunaoka@pocari.org>
+
+	* version 1.0:
+	リリース
